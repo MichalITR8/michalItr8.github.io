@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+color: rgb(28, 17, 17);
+}
+
+header{
+background-color: #4a92cd;
+}
+
+footer{
+    background-color: #417fb2;
+    text-align: center;
+}
